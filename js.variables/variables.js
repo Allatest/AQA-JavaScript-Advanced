@@ -2,9 +2,9 @@ var adminName = "Kate";
 var userName = "Black";
 
 console.log(typeof adminName); // string
-console.log(typeof userName);  // string
+console.log(typeof userName); // string
 
-var message = "awesome"
+var message = "awesome";
 
 var password1 = 1234;
 var password2 = 1111;

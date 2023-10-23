@@ -8,10 +8,9 @@ console.log(mergedArray);
 
 // Task 2
 function multiply(multiplier, ...args) {
-    const result = args.map((value) => multiplier * value);
-    return result;
-  }
-  
-  const result = multiply(4, 9, 83, 3);
-  console.log(result); 
-  
+  const result = args.map((value) => multiplier * value);
+  return result;
+}
+
+const result = multiply(4, 9, 83, 3);
+console.log(result);

@@ -11,6 +11,3 @@ let greetingForBoth = " Привіт, " + person1 + "і" + person2;
 console.log(greetingForBoth);
 let concatenatedString = person1 + person2 + greetingForBoth;
 console.log(concatenatedString);
-
-
-

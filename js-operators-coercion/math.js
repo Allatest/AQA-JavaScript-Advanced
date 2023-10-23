@@ -18,5 +18,3 @@ rectangleArea = rectangleArea.toFixed(2);
 console.log(rectangleArea);
 cylinderVolume = cylinderVolume.toFixed(2);
 console.log(cylinderVolume);
-
-

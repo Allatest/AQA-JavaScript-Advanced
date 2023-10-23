@@ -10,4 +10,4 @@ async function delayAndLog(message, milliseconds) {
 
 delayAndLog("done", 1000);
 delayAndLog("done", 5000);
-delayAndLog("done", 7000)
+delayAndLog("done", 7000);

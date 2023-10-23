@@ -9,7 +9,6 @@ const userSettings = {
 const userSettingsJSON = JSON.stringify(userSettings);
 console.log(userSettingsJSON);
 
-
 const deserializedUserSettings = JSON.parse(userSettingsJSON);
 console.log(deserializedUserSettings);
 
